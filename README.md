@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&color=ADD8E6&size=35&center=true&vCenter=true&width=1200&lines=Olá,+eu+sou+Enrico+Sotelo!;Estou+estudando+para+me+tornar+um+desenvolvedor+full-stack;Seja+bem-vindo+ao+meu+perfil+no+github!😄;)](https://git.io/typing-svg)  
 
 
-<details>
+<details open>
 <summary><h2>Entre em contato comigo: </h2></summary>  
  
 <div align="left">
@@ -38,7 +38,7 @@
 
 
 
-<details open>
+<details>
 <summary><h2>Últimos projetos: </h2></summary>  
   
 Ainda estou trabalhando nisso! :)   
